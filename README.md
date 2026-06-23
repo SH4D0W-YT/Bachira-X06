@@ -1,10 +1,8 @@
-## SETUP INsTRUCTION FOR THE BOT
+## SETUP INSTRUCTION FOR THE BOT
 
-===================================================
+
 
 ## QUICK START — READ THIS FIRST
-
-===================================================
 
 STEP 1: Install Python 3.11+
 -> https://www.python.org/downloads/
@@ -25,17 +23,14 @@ OR open a terminal in this folder and type:
 py -m pip install -r requirements.txt
 py main.py
 
-======================================================================================
-This bot doesn't leak any of the user personal and important data nor does it stores it.
-This bot havent been officially hosted in public network/hoasting so some diffulcities might arrive while running the bot.
-Once exchanged the bot with assests it will not be exchanged.
-========================================================================================
 
-==============================================
+This bot doesn't leak any of the user personal and important data nor does it stores it.
+This bot have been officially hosted in public network/hoasting so no bugs are arriving while running the bot.
+Once exchanged the bot with assests it will not be exchanged.
+
 
 ## HOW TO GET YOUR BOT TOKEN
 
-==============================================
 
 1. Go to https://discord.com/developers/applications
 2. New Application -> give it a name -> Create
@@ -49,24 +44,24 @@ Once exchanged the bot with assests it will not be exchanged.
    -> Permissions: Administrator
    -> Copy the URL and open it to invite the bot
 
-===================================================
+
 HOW TO GET YOUR USER ID (for OWNER_ID)
-===================================================
+
 
 1. Discord Settings -> Advanced -> Enable Developer Mode
 2. Right-click your own username anywhere -> "Copy User ID"
 
-===================================================
+
 MAKE SURE YOU ALSO FULFILL ALL THE REQUIREMENTS
-===================================================
+
 Check out requirement.txt
 you must have all the requirement downloaded
 
-====================================================
+
 
 ## NEED SUPPORT
 
-====================================================
+
 
 Create an support ticket in discord on this server:
 (Discord:)[https://discord.gg/CgfA5ezMgA]
