@@ -39,8 +39,8 @@ class DiscordBot(commands.Bot):
         print(f"{'='*40}\n")
         await self.change_presence(
             activity=discord.Activity(
-                type=discord.ActivityType.watching,
-                name=f"{len(self.guilds)} servers | /help"
+                type=discord.ActivityType.listining,
+                name=f"To my master - BACHIRA [@_bachira1]"
             )
         )
         self.check_mutes.start()
